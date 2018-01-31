@@ -7,6 +7,7 @@ public class HelloWorld {
 			System.out.println("Hello Jakob!");
 			System.out.println("I am 17");
 			System.out.println(16);
+			int o;
 		
 	}
 
